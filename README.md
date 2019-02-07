@@ -1,0 +1,2 @@
+# rights
+my repo rights
